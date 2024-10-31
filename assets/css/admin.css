@@ -1,0 +1,14 @@
+/**
+ * Media select
+ */
+#media-items tr.pronamic-media-select {
+	display: none;
+}
+
+body.pronamic-media-select #media-items tr.submit .button {
+	display: none;
+}
+
+body.pronamic-media-select #media-items tr.pronamic-media-select {
+	display: table-row;
+}
